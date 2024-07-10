@@ -1,0 +1,2 @@
+# Unified-Data-Ingestion-and-Processing-Framework-
+The Unified Data Ingestion and Processing Framework simplifies data collection, processing, and analysis from diverse sources using Apache Spark and Hadoop, enabling real-time updates and historical data management.
